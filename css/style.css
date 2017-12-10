@@ -1,9 +1,4 @@
-/*
-Author: W3layout
-Author URL: http//w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http//creativecommons.org/licenses/by/3.0/
-*/
+
 @font-face {
      font-family: 'open_sansregular';
       src:url('../fonts/OpenSans-Regular-webfont.ttf') format('truetype');
@@ -200,13 +195,15 @@ nav a#pull {
 }
 /* start about us */
 .main_bg{
-	background: #2EB398;
+
+	background:#8d60a3;
 }
+
 .about{
 	margin:20px 0;
 	padding: 2% 2%;
-	border-left: 1px solid #248E78;
-	border-right: 1px solid #248E78;
+	border-left: 1px solid #652a82;
+	border-right: 1px solid #652a82;
 }
 .about_img img{
 	width: 100%;
@@ -334,7 +331,7 @@ nav a#pull {
 	margin: 10px  0;
 }
 .address li i{
-	color:#2EB398;
+	color:#8d60a3;
 	font-size: 20px;
 	vertical-align: middle;
 }
@@ -364,7 +361,7 @@ nav a#pull {
 	-webkit-appearance: none;
 	cursor: pointer;
 	outline: none;
-	background: #2EB398;
+	background: #8d60a3;
 	text-transform: uppercase;
 	font-weight: 100;
 	border: none;
@@ -420,7 +417,7 @@ h2.style{
 	display: block;
 	text-transform: uppercase;
 	font-size: 26px;
-	background: #2EB398;
+	background: #8d60a3;
 	padding: 15px;
 	color: #ffffff;
 	margin: 4% 0;
@@ -448,7 +445,7 @@ h2.style{
 	font-style: italic;
 	line-height: 1.5em;
 	font-size: 16px;
-	color:#2EB398;
+	color:#8d60a3;
 	text-transform: capitalize;
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
@@ -511,7 +508,7 @@ h2.style{
 }
 .blog_list ul li i{
 	font-size: 15px;
-	color: #2EB398;
+	color: #8d60a3;
 }
 .blog_list li span{
 	font-family: 'Kreon', serif;
@@ -542,7 +539,7 @@ h2.style{
 	margin-bottom: 8%;
 }
 .read_more a{
-	background: #2EB398;
+	background: #8d60a3;
 	text-transform: uppercase;
 	font-weight: 100;
 	border: none;
@@ -556,7 +553,7 @@ h2.style{
 }
 .read_more a:hover{
 	text-decoration:none;
-	background: #2B9C85;
+	background: #88348e;
 }
 .blog_right{
 	margin-top: 15px;
@@ -622,7 +619,7 @@ h2.style{
 	transition: all 0.3s ease-in-out;
 }
 .tag_nav li.active a,.tag_nav li a:hover{
-	background: #2EB398;
+	background: #8d60a3;
 	color: #ffffff;
 	text-decoration:none;
 }
@@ -738,7 +735,7 @@ h2.style{
 	-webkit-appearance: none;
 	cursor: pointer;
 	outline: none;
-	background: #2EB398;
+	background: #8d60a3;
 	text-transform: uppercase;
 	font-weight: 100;
 	border: none;
@@ -751,7 +748,7 @@ h2.style{
 	transition: all 0.3s ease-in-out;
 }
 .news_letter form input[type="submit"]:hover{
-	background: #2B9C85;
+	background:#8d60a3;
 }
 /* details */
 .details{
