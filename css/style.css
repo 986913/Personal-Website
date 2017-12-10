@@ -582,7 +582,8 @@ h2.style{
 	transition: all 0.3s ease-in-out;
 }
 .ads_nav li a img{
-	width: 100%;
+	width:125px;
+	height: 125px;
 }
 .ads_nav li a:hover{
 	zoom: 1;
