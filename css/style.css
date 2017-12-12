@@ -422,10 +422,10 @@ h2.style{
 	color: #ffffff;
 	margin: 4% 0;
 }
-.grids_of_4 {
+.grids_of_3 {
 	margin-top: 2%;
 }
-.images_1_of_4 h3 a{
+.images_1_of_3 h3 a{
 	font-family: 'Kreon', serif;
 	display: block;
 	text-transform: capitalize;
@@ -436,11 +436,11 @@ h2.style{
 	-o-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
 }
-.images_1_of_4 h3 a:hover{
+.images_1_of_3 h3 a:hover{
 	text-decoration: none;
 	color:#2EB398;
 }
-.images_1_of_4 h4 a{
+.images_1_of_3 h4 a{
 	font-family: 'Kreon', serif;
 	font-style: italic;
 	line-height: 1.5em;
@@ -452,11 +452,11 @@ h2.style{
 	-o-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
 }
-.images_1_of_4 h4 a:hover{
+.images_1_of_3 h4 a:hover{
 	text-decoration: none;
 	color: #323232;
 }
-.images_1_of_4 img {
+.images_1_of_3 img {
 	height: 165px;
 }
 /* start blog */
