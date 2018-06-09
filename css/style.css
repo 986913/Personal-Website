@@ -422,43 +422,15 @@ h2.style{
 	color: #ffffff;
 	margin: 4% 0;
 }
-.grids_of_3 {
-	margin-top: 2%;
+div.card:hover {
+   background: rgba(141, 96, 163,0.6);
+   color:white;
 }
-.images_1_of_3 h3 a{
-	font-family: 'Kreon', serif;
-	display: block;
-	text-transform: capitalize;
-	font-size: 20px;
-	color: #3b3b3b;
-	-webkit-transition: all 0.3s ease-in-out;
-	-moz-transition: all 0.3s ease-in-out;
-	-o-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
-}
-.images_1_of_3 h3 a:hover{
-	text-decoration: none;
-	color:#2EB398;
-}
-.images_1_of_3 h4 a{
-	font-family: 'Kreon', serif;
-	font-style: italic;
-	line-height: 1.5em;
-	font-size: 16px;
-	color:#8d60a3;
-	text-transform: capitalize;
-	-webkit-transition: all 0.3s ease-in-out;
-	-moz-transition: all 0.3s ease-in-out;
-	-o-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
-}
-.images_1_of_3 h4 a:hover{
-	text-decoration: none;
-	color: #323232;
-}
-.images_1_of_3 img {
-	height: 165px;
-	width:247px;
+div.card a:hover{
+	font-size:18px;
+	background: #744a89;
+	border: 1px solid #744a89;
+	color:white;
 }
 /* start blog */
 .blog{
